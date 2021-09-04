@@ -23,7 +23,7 @@ frameworkVersion: '2'
 provider:
   name: aws
   region: eu-west-1
-  runtime: nodejs12.x
+  runtime: nodejs14.x
   profile: default
 
 plugins:
@@ -32,7 +32,7 @@ plugins:
 
 custom:
   client:
-    bucketName: dwa-rs-aws-app
+    bucketName: erjis-rs-aws-app
     distributionFolder: build
   ## serverless-single-page-app-plugin configuration
   s3LocalPath: ${self:custom.client.distributionFolder}/

@@ -2,7 +2,7 @@
 https://d2wtxlgg3uhmb8.cloudfront.net/
 
 ## S3 URL
-http://dwa-rs-aws-app.s3-website-eu-west-1.amazonaws.com/
+http://erjis-rs-aws-app.s3-website-eu-west-1.amazonaws.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
